@@ -12,10 +12,10 @@ With a solid programming background in Java and C++, I graduated top of my class
 
 ## 🚀 My Skills
 
-- **Languages:** Python | JavaScript | TypeScript | Java | C++
-- **Web:** React | Node.js | Express | HTML | CSS | Next.js
-- **Databases:** MySQL | PostgreSQL | MongoDB
-- **Tools:** Git | Docker | VSCode | Linux
+- **Languages:** Python | Java | C++
+- **Web:**  HTML | CSS 
+- **Databases:** MySQL | MongoDB
+- **Tools:** Git | VSCode | Anaconda
 
 
 ## 🤝 Let’s Connect
