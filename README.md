@@ -1,4 +1,4 @@
-# 👋 Hi there! Welcome to My GitHub Profile
+# 👋 Hi there! I'm Kislay Tinker
 
 <!-- INTRODUCTION -->
 
