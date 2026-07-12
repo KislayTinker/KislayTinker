@@ -1,0 +1,39 @@
+name: Update Custom Stats Card
+
+on:
+  schedule:
+    - cron: '0 3 * * *'   # daily at 03:00 UTC (~8:30 AM IST)
+  workflow_dispatch:        # allows manual "Run workflow" button
+  push:
+    branches: [ main ]
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Generate stats card
+        env:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          GITHUB_USERNAME: KislayTinker
+        run: python generate_readme_stats.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add stats_card.svg
+          git diff --staged --quiet || git commit -m "Update stats card [automated]"
+          git push
