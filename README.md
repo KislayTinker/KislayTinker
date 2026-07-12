@@ -89,6 +89,10 @@
 
 ---
 
+## 🧩 Custom Stats Card
+
+![My GitHub Stats](https://raw.githubusercontent.com/KislayTinker/KislayTinker/main/stats_card.svg)
+
 ## 🐍 Contribution Graph
 
 <p align="center">
