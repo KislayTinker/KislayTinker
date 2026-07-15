@@ -67,15 +67,6 @@
 
 ---
 
-## 🏆 Certifications
-
-- 📊 **Deloitte Australia** — Data Analytics Job Simulation (Forage, 2025)
-- ☁️ **Google Cloud** — Prompt Design in Vertex AI (2025)
-- ☕ **NPTEL** — Programming in Java, IIT-certified (2025)
-- 🏢 **TCS** — Young Professional Course (2024)
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
