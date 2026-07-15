@@ -79,19 +79,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KislayTinker&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KislayTinker&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KislayTinker&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
 ---
-
-## 🧩 Custom Stats Card
-
-![My GitHub Stats](https://raw.githubusercontent.com/KislayTinker/KislayTinker/main/stats_card.svg)
 
 ## 🐍 Contribution Graph
 
