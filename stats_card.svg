@@ -1,0 +1,75 @@
+<svg width="480" height="355" viewBox="0 0 480 355" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #0d1117; }
+    .border { fill: none; stroke: #30363d; stroke-width: 1; }
+    .title { font: 600 18px 'Segoe UI', sans-serif; fill: #58a6ff; }
+    .stat-label { font: 400 13px 'Segoe UI', sans-serif; fill: #8b949e; }
+    .stat-value { font: 700 20px 'Segoe UI', sans-serif; fill: #e6edf3; }
+    .lang-name { font: 400 12px 'Segoe UI', sans-serif; fill: #c9d1d9; }
+    .lang-pct { font: 400 12px 'Segoe UI', sans-serif; fill: #8b949e; }
+    .fade-in { animation: fadeIn 0.8s ease-in-out forwards; opacity: 0; }
+    @keyframes fadeIn { to { opacity: 1; } }
+  </style>
+
+  <rect class="bg" width="480" height="355" rx="10"/>
+  <rect class="border" x="0.5" y="0.5" width="479" height="354" rx="10"/>
+
+  <text class="title fade-in" x="30" y="40" style="animation-delay:0.1s">KislayTinker's GitHub Stats</text>
+
+  <g class="fade-in" style="animation-delay:0.3s">
+    <text class="stat-label" x="30" y="75">Total Commits</text>
+    <text class="stat-value" x="30" y="98">180</text>
+
+    <text class="stat-label" x="180" y="75">Stars Earned</text>
+    <text class="stat-value" x="180" y="98">0</text>
+
+    <text class="stat-label" x="330" y="75">Repositories</text>
+    <text class="stat-value" x="330" y="98">26</text>
+
+    <text class="stat-label" x="30" y="135">Followers</text>
+    <text class="stat-value" x="30" y="158">3</text>
+  </g>
+
+  <text class="stat-label fade-in" x="30" y="188" style="animation-delay:0.5s">Top Languages</text>
+  
+    <g transform="translate(30, 205)">
+      <text class="lang-name" x="0" y="0">Jupyter Notebook</text>
+      <text class="lang-pct" x="240" y="0" text-anchor="end">47.3%</text>
+      <rect x="0" y="8" width="240" height="6" rx="3" fill="#2a2f3a"/>
+      <rect x="0" y="8" width="113.5" height="6" rx="3" fill="#DA5B0B">
+        <animate attributeName="width" from="0" to="113.5" dur="1.2s" fill="freeze"/>
+      </rect>
+    </g>
+    <g transform="translate(30, 231)">
+      <text class="lang-name" x="0" y="0">HTML</text>
+      <text class="lang-pct" x="240" y="0" text-anchor="end">43.3%</text>
+      <rect x="0" y="8" width="240" height="6" rx="3" fill="#2a2f3a"/>
+      <rect x="0" y="8" width="103.8" height="6" rx="3" fill="#e34c26">
+        <animate attributeName="width" from="0" to="103.8" dur="1.2s" fill="freeze"/>
+      </rect>
+    </g>
+    <g transform="translate(30, 257)">
+      <text class="lang-name" x="0" y="0">Python</text>
+      <text class="lang-pct" x="240" y="0" text-anchor="end">6.0%</text>
+      <rect x="0" y="8" width="240" height="6" rx="3" fill="#2a2f3a"/>
+      <rect x="0" y="8" width="14.5" height="6" rx="3" fill="#3572A5">
+        <animate attributeName="width" from="0" to="14.5" dur="1.2s" fill="freeze"/>
+      </rect>
+    </g>
+    <g transform="translate(30, 283)">
+      <text class="lang-name" x="0" y="0">CSS</text>
+      <text class="lang-pct" x="240" y="0" text-anchor="end">1.8%</text>
+      <rect x="0" y="8" width="240" height="6" rx="3" fill="#2a2f3a"/>
+      <rect x="0" y="8" width="4.3" height="6" rx="3" fill="#663399">
+        <animate attributeName="width" from="0" to="4.3" dur="1.2s" fill="freeze"/>
+      </rect>
+    </g>
+    <g transform="translate(30, 309)">
+      <text class="lang-name" x="0" y="0">Java</text>
+      <text class="lang-pct" x="240" y="0" text-anchor="end">0.9%</text>
+      <rect x="0" y="8" width="240" height="6" rx="3" fill="#2a2f3a"/>
+      <rect x="0" y="8" width="2.1" height="6" rx="3" fill="#b07219">
+        <animate attributeName="width" from="0" to="2.1" dur="1.2s" fill="freeze"/>
+      </rect>
+    </g>
+</svg>
