@@ -18,7 +18,7 @@
 
   <g class="fade-in" style="animation-delay:0.3s">
     <text class="stat-label" x="30" y="75">Total Commits</text>
-    <text class="stat-value" x="30" y="98">183</text>
+    <text class="stat-value" x="30" y="98">182</text>
 
     <text class="stat-label" x="180" y="75">Stars Earned</text>
     <text class="stat-value" x="180" y="98">0</text>
