@@ -18,9 +18,9 @@
 ## 🙋‍♂️ About Me
 
 - 🎓 Final-year **B.Tech IT** student at Arya College of Engineering, Jaipur (**CGPA: 9.51/10**)
-- 💼 Currently interning as **Data Analytics Intern @ Coderbot Robotech Pvt. Ltd**
+- 💼 Interned as **Data Analytics Intern @ Coderbot Robotech Pvt. Ltd**
 - 🤖 Building a **Multimodal Fake News Detection System** (ViT + BERT + Cross-Modal Inconsistency Score)
-- 🧠 Solved **350+ problems** on LeetCode including the SQL 50 Challenge
+- 🧠 Solved **460+ problems** on LeetCode including the SQL 50 Challenge
 - 📊 Passionate about turning raw data into actionable insights
 - 🚀 Actively applying for **Data Science, ML, and Research** roles
 
