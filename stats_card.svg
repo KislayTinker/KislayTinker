@@ -18,13 +18,13 @@
 
   <g class="fade-in" style="animation-delay:0.3s">
     <text class="stat-label" x="30" y="75">Total Commits</text>
-    <text class="stat-value" x="30" y="98">224</text>
+    <text class="stat-value" x="30" y="98">226</text>
 
     <text class="stat-label" x="180" y="75">Stars Earned</text>
-    <text class="stat-value" x="180" y="98">50</text>
+    <text class="stat-value" x="180" y="98">49</text>
 
     <text class="stat-label" x="330" y="75">Repositories</text>
-    <text class="stat-value" x="330" y="98">32</text>
+    <text class="stat-value" x="330" y="98">31</text>
 
     <text class="stat-label" x="30" y="135">Followers</text>
     <text class="stat-value" x="30" y="158">4</text>
