@@ -18,7 +18,7 @@
 
   <g class="fade-in" style="animation-delay:0.3s">
     <text class="stat-label" x="30" y="75">Total Commits</text>
-    <text class="stat-value" x="30" y="98">233</text>
+    <text class="stat-value" x="30" y="98">236</text>
 
     <text class="stat-label" x="180" y="75">Stars Earned</text>
     <text class="stat-value" x="180" y="98">49</text>
@@ -34,34 +34,34 @@
   
     <g transform="translate(30, 205)">
       <text class="lang-name" x="0" y="0">Jupyter Notebook</text>
-      <text class="lang-pct" x="240" y="0" text-anchor="end">43.9%</text>
+      <text class="lang-pct" x="240" y="0" text-anchor="end">43.6%</text>
       <rect x="0" y="8" width="240" height="6" rx="3" fill="#2a2f3a"/>
-      <rect x="0" y="8" width="105.4" height="6" rx="3" fill="#DA5B0B">
-        <animate attributeName="width" from="0" to="105.4" dur="1.2s" fill="freeze"/>
+      <rect x="0" y="8" width="104.7" height="6" rx="3" fill="#DA5B0B">
+        <animate attributeName="width" from="0" to="104.7" dur="1.2s" fill="freeze"/>
       </rect>
     </g>
     <g transform="translate(30, 231)">
       <text class="lang-name" x="0" y="0">HTML</text>
-      <text class="lang-pct" x="240" y="0" text-anchor="end">39.0%</text>
+      <text class="lang-pct" x="240" y="0" text-anchor="end">38.9%</text>
       <rect x="0" y="8" width="240" height="6" rx="3" fill="#2a2f3a"/>
-      <rect x="0" y="8" width="93.7" height="6" rx="3" fill="#e34c26">
-        <animate attributeName="width" from="0" to="93.7" dur="1.2s" fill="freeze"/>
+      <rect x="0" y="8" width="93.4" height="6" rx="3" fill="#e34c26">
+        <animate attributeName="width" from="0" to="93.4" dur="1.2s" fill="freeze"/>
       </rect>
     </g>
     <g transform="translate(30, 257)">
       <text class="lang-name" x="0" y="0">Python</text>
-      <text class="lang-pct" x="240" y="0" text-anchor="end">12.9%</text>
+      <text class="lang-pct" x="240" y="0" text-anchor="end">12.8%</text>
       <rect x="0" y="8" width="240" height="6" rx="3" fill="#2a2f3a"/>
-      <rect x="0" y="8" width="30.9" height="6" rx="3" fill="#3572A5">
-        <animate attributeName="width" from="0" to="30.9" dur="1.2s" fill="freeze"/>
+      <rect x="0" y="8" width="30.7" height="6" rx="3" fill="#3572A5">
+        <animate attributeName="width" from="0" to="30.7" dur="1.2s" fill="freeze"/>
       </rect>
     </g>
     <g transform="translate(30, 283)">
       <text class="lang-name" x="0" y="0">CSS</text>
-      <text class="lang-pct" x="240" y="0" text-anchor="end">1.6%</text>
+      <text class="lang-pct" x="240" y="0" text-anchor="end">1.7%</text>
       <rect x="0" y="8" width="240" height="6" rx="3" fill="#2a2f3a"/>
-      <rect x="0" y="8" width="3.9" height="6" rx="3" fill="#663399">
-        <animate attributeName="width" from="0" to="3.9" dur="1.2s" fill="freeze"/>
+      <rect x="0" y="8" width="4.1" height="6" rx="3" fill="#663399">
+        <animate attributeName="width" from="0" to="4.1" dur="1.2s" fill="freeze"/>
       </rect>
     </g>
     <g transform="translate(30, 309)">
