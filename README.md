@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kislay Tinker</h1>
+<img src="https://media.tenor.com/zduaefgRHq4AAAAj/claude-claude-code.gif" width="100" align="right" />
 <h3 align="center">Data Science & ML Engineer | IT Undergraduate | Jaipur, India</h3>
+
 
 <p align="center">
   <a href="https://kislaytinker.github.io/Personal-Portfolio" target="_blank">
