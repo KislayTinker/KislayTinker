@@ -19,14 +19,14 @@ jobs:
         with:
           python-version: '3.11'
 
-      - run: pip install requests pillow
+      - run: pip install requests pillow numpy
 
       - name: Generate photo + stats block
         env:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           GITHUB_USERNAME: KislayTinker
           PHOTO_PATH: photo.png
-          ART_WIDTH: '42'
+          ART_WIDTH: '55'
         run: python generate_photo_neofetch.py
 
       - name: Commit and push if changed
